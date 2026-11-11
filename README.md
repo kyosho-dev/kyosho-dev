@@ -1,7 +1,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://i.imgur.com/mPShe41.gif" />
+      <img width="150" src="https://aaltomies.wordpress.com/wp-content/uploads/2011/06/z2.gif?w=2000&h=" />
     </td>
     <td style="border: 0";>
       <h1>
